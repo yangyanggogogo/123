@@ -1,0 +1,60 @@
+2018/11/14
+1.复习flex弹性布局
+2.看会携程代码
+3.写出携程代码
+
+2018/11/15
+1.改掉携程的两个问题
+2.复习一遍
+3.进行jQuery one day
+
+2018/11/16
+1.进行jQuery学习
+（基本选择器，层级选择器，基本过滤选择器，筛选选择器）
+
+2018/11/19
+1.继续进行jQuery
+2.淘宝购买玉线
+3.天猫超市 洗衣液 洗漱用品 灯
+
+2018/11/21
+1.选择器复习(重点:筛选选择器)
+2.DOM操作复习
+(重点:
+样式和类操作:addClass removeClass hasClass toggleClass,
+jQuery动画:show hide slideDown slideUp slideToggle tadeIn tadeOut tadeToggle animate stop,
+节点操作:append prepend after before html empty删除 clone复制)
+3.属性操作:attr removeAttr val text html width height
+
+2018/11/22
+1.Ajax one day
+
+2018/11/26
+1.ajax
+	ajax(五步)
+	1.创建异步对象
+	2.请求url
+	3.发送请求
+	4.注册事件
+	5.返回数据 修改页面
+2.买本子
+
+12/28 泡澡   门框卤煮200 景山 国子监街 张裕爱雯堡
+1.南锣鼓巷吃 
+  后海转一转 / temple 100
+2.故宫 100  姚记炒肝100  
+27:渝湘小菜馆200
+28:涮肉800  temple
+29:门框卤煮200 南山
+30.  
+
+first kind 第一种
+method 方法 (the first method)
+second 第二
+I swear 我发誓
+I'm not going to talk to you like this anymore 
+以后再也不说骚话了
+I promise 真的
+tricking
+animal 动物
+set up准备/安排
